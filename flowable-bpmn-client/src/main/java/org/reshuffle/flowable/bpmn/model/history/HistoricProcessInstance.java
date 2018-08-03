@@ -1,6 +1,5 @@
 package org.reshuffle.flowable.bpmn.model.history;
 
-import com.toucan.flowable.bpmn.model.RestVariable;
 import org.reshuffle.flowable.bpmn.model.RestVariable;
 
 import java.util.ArrayList;

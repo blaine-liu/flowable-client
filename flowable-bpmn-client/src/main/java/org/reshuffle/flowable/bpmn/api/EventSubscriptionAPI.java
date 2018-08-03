@@ -1,6 +1,6 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.model.event.EventSubscription;
+import org.reshuffle.flowable.bpmn.model.event.EventSubscription;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 import retrofit2.http.QueryMap;

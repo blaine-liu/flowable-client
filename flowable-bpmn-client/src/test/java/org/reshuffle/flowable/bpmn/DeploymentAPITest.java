@@ -1,10 +1,5 @@
 package org.reshuffle.flowable.bpmn;
 
-import com.toucan.flowable.bpmn.api.DeploymentAPI;
-import com.toucan.flowable.bpmn.filter.DeploymentFilter;
-import com.toucan.flowable.bpmn.model.Paging;
-import com.toucan.flowable.bpmn.model.deployment.Deployment;
-import com.toucan.flowable.bpmn.model.deployment.DeploymentResource;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

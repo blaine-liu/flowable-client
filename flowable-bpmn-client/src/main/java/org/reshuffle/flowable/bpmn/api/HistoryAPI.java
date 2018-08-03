@@ -1,9 +1,9 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.filter.*;
-import com.toucan.flowable.bpmn.model.Comment;
-import com.toucan.flowable.bpmn.model.Paging;
-import com.toucan.flowable.bpmn.model.history.*;
+import org.reshuffle.flowable.bpmn.filter.*;
+import org.reshuffle.flowable.bpmn.model.Comment;
+import org.reshuffle.flowable.bpmn.model.Paging;
+import org.reshuffle.flowable.bpmn.model.history.*;
 import retrofit2.http.*;
 
 import java.util.List;

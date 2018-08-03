@@ -1,7 +1,7 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.model.form.FormData;
-import com.toucan.flowable.bpmn.model.form.SubmitFormRequest;
+import org.reshuffle.flowable.bpmn.model.form.FormData;
+import org.reshuffle.flowable.bpmn.model.form.SubmitFormRequest;
 import retrofit2.http.Body;
 import retrofit2.http.GET;
 import retrofit2.http.POST;

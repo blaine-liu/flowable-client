@@ -1,10 +1,10 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.model.Paging;
-import com.toucan.flowable.bpmn.model.group.Group;
-import com.toucan.flowable.bpmn.model.group.GroupRequest;
-import com.toucan.flowable.bpmn.model.group.Member;
-import com.toucan.flowable.bpmn.model.group.Membership;
+import org.reshuffle.flowable.bpmn.model.Paging;
+import org.reshuffle.flowable.bpmn.model.group.Group;
+import org.reshuffle.flowable.bpmn.model.group.GroupRequest;
+import org.reshuffle.flowable.bpmn.model.group.Member;
+import org.reshuffle.flowable.bpmn.model.group.Membership;
 import retrofit2.http.*;
 
 import java.util.Map;

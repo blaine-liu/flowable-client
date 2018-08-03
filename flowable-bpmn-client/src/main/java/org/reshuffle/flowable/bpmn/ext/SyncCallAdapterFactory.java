@@ -1,6 +1,6 @@
 package org.reshuffle.flowable.bpmn.ext;
 
-import com.toucan.flowable.bpmn.model.Paging;
+import org.reshuffle.flowable.bpmn.model.Paging;
 import retrofit2.CallAdapter;
 import retrofit2.Retrofit;
 

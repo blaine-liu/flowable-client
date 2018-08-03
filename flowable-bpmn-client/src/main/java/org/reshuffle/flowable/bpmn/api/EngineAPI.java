@@ -1,6 +1,6 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.model.engine.EngineInfo;
+import org.reshuffle.flowable.bpmn.model.engine.EngineInfo;
 import retrofit2.http.GET;
 
 /**

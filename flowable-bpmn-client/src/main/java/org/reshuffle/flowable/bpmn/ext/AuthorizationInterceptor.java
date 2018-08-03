@@ -1,11 +1,10 @@
 package org.reshuffle.flowable.bpmn.ext;
 
-import com.toucan.flowable.bpmn.Version;
-import com.toucan.flowable.bpmn.utils.Base64;
 import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;
 import org.reshuffle.flowable.bpmn.Version;
+import org.reshuffle.flowable.bpmn.utils.Base64;
 
 import java.io.IOException;
 

@@ -1,8 +1,8 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.model.Paging;
-import com.toucan.flowable.bpmn.model.deployment.Deployment;
-import com.toucan.flowable.bpmn.model.deployment.DeploymentResource;
+import org.reshuffle.flowable.bpmn.model.Paging;
+import org.reshuffle.flowable.bpmn.model.deployment.Deployment;
+import org.reshuffle.flowable.bpmn.model.deployment.DeploymentResource;
 import retrofit2.http.DELETE;
 import retrofit2.http.GET;
 import retrofit2.http.Path;

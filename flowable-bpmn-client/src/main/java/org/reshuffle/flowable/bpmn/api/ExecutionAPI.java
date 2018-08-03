@@ -1,11 +1,11 @@
 package org.reshuffle.flowable.bpmn.api;
 
-import com.toucan.flowable.bpmn.filter.ExecutionQuery;
-import com.toucan.flowable.bpmn.model.Paging;
-import com.toucan.flowable.bpmn.model.RestVariable;
-import com.toucan.flowable.bpmn.model.execution.ChangeState;
-import com.toucan.flowable.bpmn.model.execution.Execution;
-import com.toucan.flowable.bpmn.model.execution.SignalEvent;
+import org.reshuffle.flowable.bpmn.filter.ExecutionQuery;
+import org.reshuffle.flowable.bpmn.model.Paging;
+import org.reshuffle.flowable.bpmn.model.RestVariable;
+import org.reshuffle.flowable.bpmn.model.execution.ChangeState;
+import org.reshuffle.flowable.bpmn.model.execution.Execution;
+import org.reshuffle.flowable.bpmn.model.execution.SignalEvent;
 import retrofit2.http.*;
 
 import java.util.List;
